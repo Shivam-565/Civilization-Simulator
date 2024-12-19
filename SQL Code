@@ -1,0 +1,10 @@
+Create Databse: 
+CREATE DATABASE hissim; 
+Select Database: 
+USE hissim; 
+Create Table: 
+CREATE TABLE userinfo( 
+name varchar, 
+pass varchar, 
+email varchar, 
+); 
