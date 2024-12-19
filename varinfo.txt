@@ -1,0 +1,11 @@
+Government Structure (0-100): This variable measures the quality and effectiveness of a country's governance and political system. A higher value suggests a stable, well-functioning government, while a lower value indicates instability or inefficiency.
+
+Economy (0-100): This variable reflects the strength and health of a country's economy. A higher value indicates a robust and prosperous economy, while a lower value suggests economic challenges or underdevelopment.
+
+Harmony (0-100): Harmony measures the level of social cohesion, peace, and unity within a society. A higher value indicates a peaceful, harmonious society, while a lower value suggests social unrest and division.
+
+Culture (0-100): This variable represents the richness and preservation of a country's cultural heritage. A higher value suggests a strong cultural identity and heritage, while a lower value may indicate cultural erosion or loss.
+
+Innovation (0-100): Innovation assesses a country's capacity for research, development, and technological advancement. A higher value indicates a highly innovative society, while a lower value suggests a lack of innovation and progress.
+
+Military (0-100): The military variable measures a country's military strength and capability. A higher value reflects a powerful and well-equipped military, while a lower value suggests a weaker military presence.
