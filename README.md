@@ -1,5 +1,7 @@
 ![Banner](https://placehold.co/1280x300/darkolivegreen/white?font=montserrat&text=Civilisation%20Simulator)
 The Civilization Simulator is an engaging and educational experience that allows users to explore history through an interactive lens. This project aims to simulate the rise and fall of civilizations, incorporating various factors like resource management, technological advancement, cultural development, and interactions with other civilizations.
+
+** Software still under development **
 ___
 ## 🚀 About The Project
 ### This simulator provides a dynamic and immersive platform for users to:
