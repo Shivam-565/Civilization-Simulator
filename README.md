@@ -29,8 +29,3 @@ Ensure you have the latest version of a modern web browser.
    ```git clone https://github.com/Shivam-565/Civilization-Simulator.git```
 
    ```cd Civilization-Simulator```
- 
-2. **Open `index.html` in your browser**
-   
-   Simply open the `index.html` file in your preferred web browser to start the simulation.
-
