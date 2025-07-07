@@ -26,9 +26,9 @@ Ensure you have the latest version of a modern web browser.
 ### Installation
 1. **Clone the repo**
 
-``` git clone https://github.com/Shivam-565/Civilization-Simulator.git ```
+   ``` git clone https://github.com/Shivam-565/Civilization-Simulator.git ```
 
- ```  cd Civilization-Simulator ```
+   ```  cd Civilization-Simulator ```
  
 2. **Open `index.html` in your browser**
    
