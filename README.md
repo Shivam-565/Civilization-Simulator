@@ -6,7 +6,5 @@ Welcome to **Civilization Simulator**, a Python-based simulation that models the
 
 - ⚙️ Customizable simulation parameters for population, resources, and technology
 - 📈 Dynamic visualization of civilization spread and evolution
-- 🧠 Basic AI logic to simulate decision-making and inter-civilization interaction
-- 🗺️ Map-based environment with terrain and resource allocation
 - ⏱️ Time-step iteration with statistical logging
 
